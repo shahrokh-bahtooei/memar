@@ -1,1 +1,1 @@
-lib.md
+../modules/knowledge/classification/primitive/guest.md
